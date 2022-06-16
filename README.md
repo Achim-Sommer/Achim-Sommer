@@ -1,6 +1,6 @@
 ### Hi there 👋, Achim Sommer
 #### FiveM Script Tutorial YouTuber
-![FiveM Script Tutorial YouTuber]([https://pbs.twimg.com/profile_banners/4644740255/1608383335/600x200](https://github.com/Achim-Sommer/Achim-Sommer/blob/main/revision.jpg))
+![FiveM Script Tutorial YouTuber](https://github.com/Achim-Sommer/Achim-Sommer/blob/main/revision.jpg)
 
 Current mainly scripts for FiveM. Most of my repositories are private for my Tebex store. 
 
