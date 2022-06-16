@@ -4,11 +4,6 @@
 
 Current mainly scripts for FiveM. Most of my repositories are private for my Tebex store. 
 
-You are looking for a forum for FiveM? Then have a look here: https://forum.achimsommer.com 
-
-**YouTube**
-https://www.youtube.com/c/GermanGaming/
-
 Skills: LUA / CSS / HTML / SQL / JS
 
 - 🔭 I’m currently working on this page. 
