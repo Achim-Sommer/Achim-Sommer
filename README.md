@@ -17,7 +17,7 @@ Skills: LUA / CSS / HTML / SQL / JS
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Achim-Sommer&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achim-Sommer&theme=tokyonight&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achim-Sommer" />
 </a>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
