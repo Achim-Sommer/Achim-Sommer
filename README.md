@@ -25,6 +25,13 @@ Current mainly scripts for FiveM. Most of my repositories are private for my Teb
 
 ----------------------------------------------------------------
 
+### FiveM Scripts by Achim
+
+* Tebex: https://achim.tebex.io
+* Decomentation: https://achim-1.gitbook.io/fivem-scripts-by-achim/fivem-scripts-by-achim/page-1
+
+----------------------------------------------------------------
+
 ### GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
