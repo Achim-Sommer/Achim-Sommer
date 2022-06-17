@@ -11,6 +11,18 @@ Current mainly scripts for FiveM. Most of my repositories are private for my Teb
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+### Social-Media
+<div> 
+  <a href="https://www.youtube.com/channel/UCJRVHx9owERZiRu5hcI_JLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/achim.sommer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/achim1337" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/mZWNwyvmP2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+ 
+  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/39227403/174198514-9fbf7789-f964-4f50-b147-cbd570889396.svg)
+ 
+</div>
+
 ----------------------------------------------------------------
 
 ### GitHub Stats
@@ -28,17 +40,6 @@ Current mainly scripts for FiveM. Most of my repositories are private for my Teb
 
 ----------------------------------------------------------------
 
-### Social-Media
-<div> 
-  <a href="https://www.youtube.com/channel/UCJRVHx9owERZiRu5hcI_JLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/achim.sommer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/achim1337" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/mZWNwyvmP2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
- 
-  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/39227403/174198514-9fbf7789-f964-4f50-b147-cbd570889396.svg)
- 
-</div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Achim-Sommer)
 
