@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Achim Sommer
 
-Current mainly scripts for FiveM and smart home stuff. Most of my repositories are private for my Tebex store and private things like my smart home.. 
+Current mainly scripts for FiveM and smart home stuff. Most of my repositories are private for my Tebex store and private things like my smart home. 
 
 ### Skills:
 
