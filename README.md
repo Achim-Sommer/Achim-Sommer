@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Achim Sommer
 
-Current mainly scripts for FiveM. Most of my repositories are private for my Tebex store. 
+Current mainly scripts for FiveM and smart home stuff. Most of my repositories are private for my Tebex store and private things like my smart home.. 
 
 ### Skills:
 
@@ -25,14 +25,14 @@ Current mainly scripts for FiveM. Most of my repositories are private for my Teb
 
 ----------------------------------------------------------------
 
-### FiveM Scripts by Achim
+### FiveM Scripts
 
 * Tebex: https://achim.tebex.io
-* Decomentation: https://achim-1.gitbook.io/fivem-scripts-by-achim/fivem-scripts-by-achim/page-1
 
 ----------------------------------------------------------------
 
 ### GitHub Stats
+I still have to take care that it is updated correctly 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Achim-Sommer&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
