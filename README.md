@@ -27,7 +27,7 @@ Current mainly scripts for FiveM and smart home stuff. Most of my repositories a
 
 ### FiveM Scripts
 
-* Tebex: https://achim.tebex.io
+* Tebex: https://shop.achimsommer.com
 
 ----------------------------------------------------------------
 
