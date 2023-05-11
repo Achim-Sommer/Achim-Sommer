@@ -34,13 +34,6 @@ Current mainly scripts for FiveM and smart home stuff. Most of my repositories a
 ### GitHub Stats
 I still have to take care that it is updated correctly 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Achim-Sommer&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achim-Sommer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AchimSommer&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Achim-Sommer&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
