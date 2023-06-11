@@ -36,11 +36,5 @@ I still have to take care that it is updated correctly
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AchimSommer&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Achim-Sommer&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-----------------------------------------------------------------
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Achim-Sommer)
 
 - 🔭 I’m currently working on this page. 
