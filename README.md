@@ -2,12 +2,17 @@
 
 # Hi there 👋, I'm Achim Sommer
 
-Dual Business Informatics student | FiveM Scripts dev | YouTuber. 
-Passionate about enhancing FiveM gameplay. Sharing projects & tutorials on YouTube.
+Dual Business Informatics student | FiveM scripts developer | YouTuber
 
-🎓 Dual Business Informatics student
-👨‍💻 Passionate FiveM Scripts dev
-🎥 Sharing projects and tutorials on YouTube
+🎓 Studying Business Informatics in a dual system
+👨‍💻 Passionate about developing scripts for FiveM
+🎥 Sharing my projects and tutorials on YouTube
+
+Welcome to my Github profile! I am a dual Business Informatics student with a keen interest in developing scripts for FiveM. My focus is on enhancing the gaming experience on the FiveM platform and creating innovative solutions.
+
+In my free time, I enjoy sharing my experiences and insights through YouTube videos. On my channel, you'll find tutorials, project showcases, and more about FiveM scripting and other topics like gaming.
+
+If you're interested in my work or have any questions, feel free to reach out to me. Also, take a look at my repositories for a glimpse into my projects.
 
    <p align="left">
       <a href="https://www.youtube.com/@achimsommer?sub_confirmation=1">
