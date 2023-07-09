@@ -2,13 +2,13 @@
 
 ### Hi there 👋, I'm Achim Sommer
 
-Dual Wirtschaftsinformatik student | FiveM Scripts dev | YouTuber
+Dual Business Informatics student | FiveM Scripts dev | YouTuber. 
+Passionate about enhancing FiveM gameplay. Sharing projects & tutorials on YouTube.
 
-🎓 Dual Wirtschaftsinformatik student
+🎓 Dual Business Informatics student
 👨‍💻 Passionate FiveM Scripts dev
 🎥 Sharing projects and tutorials on YouTube
 
-Dual Wirtschaftsinformatik student | FiveM Scripts dev | YouTuber. Passionate about enhancing FiveM gameplay. Sharing projects & tutorials on YouTube.
 
 ### Skills:
 
