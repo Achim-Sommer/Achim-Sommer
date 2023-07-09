@@ -2,7 +2,13 @@
 
 ### Hi there 👋, I'm Achim Sommer
 
-Current mainly scripts for FiveM and smart home stuff. Most of my repositories are private for my Tebex store and private things like my smart home. 
+Dual Wirtschaftsinformatik student | FiveM Scripts dev | YouTuber
+
+🎓 Dual Wirtschaftsinformatik student
+👨‍💻 Passionate FiveM Scripts dev
+🎥 Sharing projects and tutorials on YouTube
+
+Dual Wirtschaftsinformatik student | FiveM Scripts dev | YouTuber. Passionate about enhancing FiveM gameplay. Sharing projects & tutorials on YouTube.
 
 ### Skills:
 
