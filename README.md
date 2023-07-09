@@ -20,6 +20,7 @@ Passionate about enhancing FiveM gameplay. Sharing projects & tutorials on YouTu
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Achim-Sommer?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 ---
+
 ### Skills:
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -49,6 +50,11 @@ Passionate about enhancing FiveM gameplay. Sharing projects & tutorials on YouTu
 
 ### GitHub Stats
 I still have to take care that it is updated correctly 
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=achim-sommer&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Achim-Sommer&theme=gruvbox&border_radius=4.5) -->
+
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AchimSommer&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
