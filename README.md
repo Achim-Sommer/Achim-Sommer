@@ -4,9 +4,9 @@
 
 Dual Business Informatics student | FiveM scripts developer | YouTuber
 
-🎓 Studying Business Informatics in a dual system
-👨‍💻 Passionate about developing scripts for FiveM
-🎥 Sharing my projects and tutorials on YouTube
+- 🎓 Studying Business Informatics in a dual system
+- 👨‍💻 Passionate about developing scripts for FiveM
+- 🎥 Sharing my projects and tutorials on YouTube
 
 Welcome to my Github profile! I am a dual Business Informatics student with a keen interest in developing scripts for FiveM. My focus is on enhancing the gaming experience on the FiveM platform and creating innovative solutions.
 
