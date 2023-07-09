@@ -19,6 +19,7 @@ Passionate about enhancing FiveM gameplay. Sharing projects & tutorials on YouTu
       <a href="https://github.com/Achim-Sommer?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Achim-Sommer?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
 ---
 
 ### Skills:
