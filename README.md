@@ -1,8 +1,8 @@
 ![FiveM Script Tutorial YouTuber](https://github.com/Achim-Sommer/Achim-Sommer/blob/main/githubprofil.png)
 
-### Hi there I am [Achim](https://rishabkumar.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there I am [Achim](https://achimsommer.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
-Dual Business Informatics student | FiveM scripts developer | YouTuber
+Dual Business Informatics student
 
 - 🎓 Studying Business Informatics in a dual system
 - 👨‍💻 Passionate about developing scripts for FiveM
@@ -13,23 +13,19 @@ Welcome to my Github profile! I am a dual Business Informatics student with a ke
 In my free time, I enjoy sharing my experiences and insights through YouTube videos. On my channel, you'll find tutorials, project showcases, and more about FiveM scripting and other topics like gaming.
 
 If you're interested in my work or have any questions, feel free to reach out to me. Also, take a look at my repositories for a glimpse into my projects.
-
    <p align="left">
       <a href="https://www.youtube.com/@achimsommer?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCJRVHx9owERZiRu5hcI_JLA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@achimsommer">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCJRVHx9owERZiRu5hcI_JLA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/Achim-Sommer?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Achim-Sommer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Achim-Sommer?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Achim-Sommer?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://www.linkedin.com/in/achim-sommer-b898a2185/">
+         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="https://www.instagram.com/achim.sommer/">
+         <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    </p>
-
 ---
 
-### Skills:
-
-#### Frameworks
+### Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -37,7 +33,7 @@ If you're interested in my work or have any questions, feel free to reach out to
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,7 +41,7 @@ If you're interested in my work or have any questions, feel free to reach out to
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-#### Tools
+### Tools
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -53,18 +49,10 @@ If you're interested in my work or have any questions, feel free to reach out to
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-#### Services
+### Services
 ![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Office 365](https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Exchange](https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white)
-
-### Social-Media
-<div> 
-  <a href="https://www.youtube.com/channel/UCJRVHx9owERZiRu5hcI_JLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/achim.sommer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/achim1337" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/mZWNwyvmP2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
  
   ![github-contribution-grid-snake](https://user-images.githubusercontent.com/39227403/174198514-9fbf7789-f964-4f50-b147-cbd570889396.svg)
  
