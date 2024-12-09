@@ -75,6 +75,11 @@ If you're interested in my work or have any questions, feel free to reach out to
 ### GitHub Stats
 I still have to take care that it is updated correctly 
 
+[![](https://raw.githubusercontent.com/Achim-Sommer/Achim-Sommer/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Achim-Sommer/Achim-Sommer/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Achim-Sommer/Achim-Sommer/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Achim-Sommer/Achim-Sommer/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Achim-Sommer/Achim-Sommer/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Achim-Sommer&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+
 - **Profile Details Card**:  
   ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Achim-Sommer&theme=github_dark)
 
