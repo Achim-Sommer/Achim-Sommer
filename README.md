@@ -80,21 +80,6 @@ I still have to take care that it is updated correctly
 [![](https://raw.githubusercontent.com/Achim-Sommer/Achim-Sommer/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Achim-Sommer/Achim-Sommer/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Achim-Sommer&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 
-- **Profile Details Card**:  
-  ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Achim-Sommer&theme=github_dark)
-
-- **Top Languages Used in Repository Card**:  
-  ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Achim-Sommer&theme=github_dark&exclude=)
-
-- **Top Languages in Commits Card**:  
-  ![Top Languages in Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Achim-Sommer&theme=github_dark&exclude=)
-
-- **GitHub Stats Card**:  
-  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Achim-Sommer&theme=github_dark)
-
-- **Productive Time Card**:  
-  ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Achim-Sommer&theme=github_dark&utcOffset=1)
-
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=achim-sommer&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Achim-Sommer&theme=gruvbox&border_radius=4.5) -->
