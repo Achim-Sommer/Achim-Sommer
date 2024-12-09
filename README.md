@@ -23,7 +23,7 @@ If you're interested in my work or have any questions, feel free to reach out to
       <a href="https://www.instagram.com/achim.sommer/">
          <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    </p>
----
+----------------------------------------------------------------
 
 ### Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
